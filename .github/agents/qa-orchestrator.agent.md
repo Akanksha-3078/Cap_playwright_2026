@@ -1,4 +1,5 @@
 
+
 name: QA Orchestrator
 description: Coordinates the complete QA automation lifecycle using specialized Playwright QA subagents.
 argument-hint: Provide a requirement, feature, URL, user story, failing test, or QA objective.
